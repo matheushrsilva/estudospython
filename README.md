@@ -1,2 +1,2 @@
 # Estudo python
-<img src=" https://mir-s3-cdn-cf.behance.net/project_modules/1400/4e105f96750899.5eb54f337fb8e.png" width= "600" height="300">
+<img src="https://www.dev-cafe.org/wp-content/uploads/2018/08/python-logo-3.6.gif" width= "600" height="300">
